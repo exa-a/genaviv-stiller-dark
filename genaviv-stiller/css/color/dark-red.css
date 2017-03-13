@@ -1,0 +1,22 @@
+input[type="submit"],input[type="button"]{background:#444}
+a.tabs__bar__link:hover,span.movie-tooltip__rating__title:hover, span.movie-tooltip__rating__title a:hover{background:#950614!important;}
+a,tr.unreadpm a,.linkbox.pager a:hover,.linkbox a strong:hover,.linkbox.pager a strong:hover,li.tabs__bar__item.tabs__bar__item--active a:hover,.forum-post__heading a:hover,#torrents a.huge-movie-list__movie__title:hover,#torrents a.huge-movie-list__movie__director:hover,#header a.new-subscriptions,div#footer p:after,#wrapper .alert-bars a,tr.inbox-message--unread td a,tr.unreadpm a{color:#950614;}
+td a:hover,a[href*="torrents.php?id"],table#torrent_table a[href*="torrents.php?torrentid"] strong {color:#950614}
+#userinfo_minor a:hover,#menu ul>li>a:hover{color:#950614}
+.box_info .stats.nobullet li a{color:#950614!important;font-weight:400}
+td.unread:before{color:#950614}
+td.unread_sticky:before{color:#950614}
+td.unread_locked:before{color:#950614}
+td.unread_locked_sticky:before{color:#950614}
+#index .sidebar .stats.nobullet a{color:#950614;}
+.forum_post a{color:#950614}
+.box.filter_torrents .head a:hover,.box.filter_torrents .head a:focus,.forum_post .colhead a:hover,.forum_post .colhead_dark a:focus,#inbox .box .head a:focus,#inbox .box .head a:hover{color:#950614}
+#request_table .rowb td:first-of-type>a:nth-child(2n),#request_table .rowa td>a:nth-child(2n){color:#950614}
+table.forum_unread .colhead_dark{border-top:5px solid #950614}
+#header > #menu ul>li.active > a{color:#950614}
+#header a{color:#f7f7f7}
+#header a:hover,#header a:focus{color:#950614}
+#header a.username{color:#950614}
+#header a.username:hover,#header a.username:focus{color:#f7f7f7}
+#header .alertbar a{color:#950614}
+.ui-widget-content a:hover{color:#950614!important;}
