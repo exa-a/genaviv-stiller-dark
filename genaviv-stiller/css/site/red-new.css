@@ -1,7 +1,0 @@
-div#logo{width:250px;height:70px;margin:0 auto;}
-div#logo a{display:block;width:250px;height:70px;margin:0 auto}
-#logo{background:url(../../img/logo/red/new-logo.png) no-repeat;background-size:contain;}
-#header #logo{margin-top:10px;margin-bottom:10px}
-.autocomplete-suggestion{padding:5px}
-#header{background-image:url(../../img/top/red.jpg);}
-div#footer>p:first-child:after{content:" | Genaviv theme by geekmaster1 edited by exa"}

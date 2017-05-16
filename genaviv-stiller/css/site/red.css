@@ -1,7 +1,7 @@
 div#logo{width:250px;height:70px;margin:0 auto;filter:drop-shadow(0px 0px 0 white);}
 div#logo a{display:block;width:250px;height:70px;margin:0 auto}
-#logo{background:url(../../img/logo/red/logo.png) no-repeat;background-size:contain;}
+#logo{background:url(../../img/logo/logo.png) no-repeat;background-size:contain;}
 #header #logo{margin-top:10px;margin-bottom:10px}
 .autocomplete-suggestion{padding:5px}
-#header{background-image:url(../../img/top/red.jpg);}
+header{background:initial;}
 div#footer>p:first-child:after{content:" | Genaviv theme by geekmaster1 edited by exa"}
